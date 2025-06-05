@@ -40,9 +40,9 @@ Evaluate the model and plot predictions.
 
 ## Program
 
-#### Name: Jwalamukhi S
+#### Name: SADHANA SHREE B
 
-#### Register Number: 212223040079
+#### Register Number: 212223230177
 
 ```Python
 # Define RNN Model
